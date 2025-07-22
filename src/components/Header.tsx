@@ -9,7 +9,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center space-x-6">
-            <div className="text-white flex flex-col">
+            <div className="text-white flex flex-col" onClick={() => window.location.href = '/'}>
               <span className="text-xl font-bold italic">Flipkart</span>
               <span className="text-[#FFE500] text-xs italic">Explore Plus</span>
             </div>

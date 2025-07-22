@@ -1,4 +1,4 @@
-import { useLocation } from "react-router-dom";
+import { Navigate, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 
 const NotFound = () => {
@@ -10,6 +10,11 @@ const NotFound = () => {
       location.pathname
     );
   }, [location.pathname]);
+
+  // Redirect to the home page
+  if (location.pathname !== "/") {
+    return <Navigate to="/" />;
+  }
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-100">
