@@ -1,21 +1,9 @@
 
+import { Link } from 'react-router-dom';
 import ProductCard from './ProductCard';
 
-interface Product {
-  image_url: string;
-  name: string;
-  specs: string;
-  tags: string[];
-  price: string;
-  originalPrice?: string;
-}
 
-interface ProductSectionProps {
-  title: string;
-  products: Product[];
-}
-
-const ProductSection = ({ title, products }: ProductSectionProps) => {
+const ProductSection = ({imgUrl, title, products }: { imgUrl: string, title: string, products: any}) => {
   return (
     <div className="bg-white rounded-lg shadow-sm mb-6">
       <div className="p-6 border-b">
@@ -28,17 +16,18 @@ const ProductSection = ({ title, products }: ProductSectionProps) => {
       </div>
       
       <div className="p-6">
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
           {products.map((product, index) => (
-            <ProductCard
-              key={index}
-              image_url={product.image_url}
-              name={product.name}
-              specs={product.specs}
-              tags={product.tags}
-              price={product.price}
-              originalPrice={product.originalPrice}
-            />
+            <Link to={`/product/${product.id}`} key={index}>
+              <ProductCard
+                image_url={`${imgUrl}${product.imageId}-w280-h280/img.webp`}
+                name={product.name}
+                specs={product.features.map(f => f.text).join(", ")}
+                tags={[]}
+                price={product.fePrice}
+                originalPrice={product.price.toString()}
+              />
+            </Link>
           ))}
         </div>
       </div>

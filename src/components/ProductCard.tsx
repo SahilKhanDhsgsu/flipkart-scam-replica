@@ -14,7 +14,7 @@ const ProductCard = ({ image_url, name, specs, tags, price, originalPrice }: Pro
   const navigate = useNavigate();
 
   const handleBuyNow = () => {
-    navigate('/product/smartphone');
+    navigate('/product/');
   };
 
   // Calculate discount if original price is provided
@@ -22,7 +22,7 @@ const ProductCard = ({ image_url, name, specs, tags, price, originalPrice }: Pro
     Math.round(((parseFloat(originalPrice.replace(/[^0-9]/g, '')) - parseFloat(price.replace(/[^0-9]/g, ''))) / parseFloat(originalPrice.replace(/[^0-9]/g, ''))) * 100) : 0;
 
   return (
-    <div className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-4 border cursor-pointer" onClick={handleBuyNow}>
+    <div className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-4  cursor-pointer" onClick={handleBuyNow}>
       <div className="aspect-square mb-3 overflow-hidden rounded bg-gray-50 flex items-center justify-center">
         <img 
           src={image_url} 
@@ -34,7 +34,7 @@ const ProductCard = ({ image_url, name, specs, tags, price, originalPrice }: Pro
       <h3 className="font-medium text-gray-800 mb-2 line-clamp-2 text-sm">{name}</h3>
       
       <div className="mb-2">
-        <p className="text-xs text-gray-600 mb-1">{specs}</p>
+        <p className="text-xs text-gray-600 mb-1 line-clamp-2">{specs}</p>
         <div className="flex flex-wrap gap-1 mb-2">
           {tags.slice(0, 3).map((tag, index) => (
             <span key={index} className="text-xs bg-gray-100 text-gray-600 px-2 py-1 rounded">
@@ -47,9 +47,9 @@ const ProductCard = ({ image_url, name, specs, tags, price, originalPrice }: Pro
       <div className="space-y-1 mb-3">
         <div className="flex items-center space-x-2">
           <span className="text-lg font-bold text-gray-900">{price}</span>
-          {originalPrice && (
+          {originalPrice && discountPercentage > 0 && (
             <>
-              <span className="text-sm text-gray-500 line-through">{originalPrice}</span>
+              <span className="text-sm text-gray-500 line-through">₹{originalPrice}</span>
               <span className="text-green-600 font-medium text-sm">{discountPercentage}% off</span>
             </>
           )}

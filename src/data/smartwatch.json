@@ -1,0 +1,986 @@
+[
+    {
+        "type": "Product",
+        "id": "pd1yst2ygww",
+        "name": "Apple Watch Ultra 4",
+        "priceDrop": 0,
+        "rating": 90,
+        "stock": "RUMORED",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "brandId": 8,
+        "price": 95999,
+        "fePrice": "₹95,999",
+        "imageId": "Box4sY56",
+        "url": "/smartwatches/apple-watch-ultra-4-ppd1yst2ygww",
+        "specsScore": 0,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G, VoLTE"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "2 GB RAM, 64 GB Inbuilt"
+            },
+            {
+                "text": "1.95 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 100 m"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": null
+    },
+    {
+        "type": "Product",
+        "id": "pd1aov1esor",
+        "name": "Apple Watch Ultra 3",
+        "priceDrop": 0,
+        "rating": 86,
+        "stock": "UPCOMING",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 93999,
+        "fePrice": "₹93,999",
+        "imageId": "fGGrq0Pm",
+        "url": "/smartwatches/apple-watch-ultra-3-ppd1aov1esor",
+        "specsScore": 0,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G, VoLTE"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "2 GB RAM, 64 GB Inbuilt"
+            },
+            {
+                "text": "1.93 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 100 m"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": null
+    },
+    {
+        "type": "Product",
+        "id": "pd11r21b4b4",
+        "name": "Apple Watch Ultra 2",
+        "priceDrop": 0.22761914,
+        "rating": 84,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 84490,
+        "fePrice": "₹84,490",
+        "imageId": "IruIN8c2",
+        "url": "/smartwatches/apple-watch-ultra-2-ppd11r21b4b4",
+        "specsScore": 98,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G, VoLTE"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "2 GB RAM, 64 GB Inbuilt"
+            },
+            {
+                "text": "1.93 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 100 m"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=12--8CCS0E44J..lGCDXtFzBVhrhAA3snrh7rBBTac8rUAtcCTU3rcocWBFhzAaTTCTr3c8YUtcU3rYTcTssBcncTcHlnnc3aUYurcTUBsocsTaiciYFBTrIchncUYUruYCncArFach-hDZPlZ55hrhhaFhrhrhhacBrWahrhrBi553o56H6HhrFB5a__Im_P7nnPr",
+            "store": {
+                "imageSquareId": "4vfi1umq",
+                "slug": "croma"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1d4vrx76s",
+        "name": "Apple Watch Series 10 46mm Titanium (GPS+Cellular)",
+        "priceDrop": 0.08376937,
+        "rating": 83,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 84490,
+        "fePrice": "₹84,490",
+        "imageId": "5MrAr4sD",
+        "url": "/smartwatches/apple-watch-series-10-46mm-titanium-gps-cellular-ppd1d4vrx76s",
+        "specsScore": 0,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "64 GB Inbuilt"
+            },
+            {
+                "text": "1.89 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, WR50, IP6X"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=12--8CCS0E46iiopASJsdk~mAhrhAA3snrh7rBBTac8rUAtcFa3YaFc5PcWBFhzAaTTCTr3c8YUtcnYTruaFacTssBcFcncHbnnc3aUYurcTUBsZcsTaiciYFBTrIcurUC3rTcUYUruYCncArFach-hDZPlH5ZhrhhaFhrhrhhacBrWahrhrBi5iH23DGbFhrFB5Sol7vZN04IE0",
+            "store": {
+                "imageSquareId": "4vfi1umq",
+                "slug": "croma"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd19bfflzbu",
+        "name": "Apple Watch Series 10 42mm Titanium (GPS+Cellular)",
+        "priceDrop": 0.16380739,
+        "rating": 94,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 79900,
+        "fePrice": "₹79,900",
+        "imageId": "hxc05h0m",
+        "url": "/smartwatches/apple-watch-series-10-42mm-titanium-gps-cellular-ppd19bfflzbu",
+        "specsScore": 0,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "64 GB Inbuilt"
+            },
+            {
+                "text": "1.53 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, WR50, IP6X"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12-VemzkwkTE9U5N6D0IddRdWhrhArnrysuhyihDRPK7-ZfKX0h-hrhhaFhrhrhhacBrWahrhrBi5l6ggTy6ChrFB5DCUup.zmmxl.",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1cnbiqglq",
+        "name": "Apple Watch Series 8 Stainless Steel 45 mm (GPS + Cellular)",
+        "priceDrop": -8.662397,
+        "rating": 92,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 77999,
+        "fePrice": "₹77,999",
+        "imageId": "Qgp7sdCY",
+        "url": "/smartwatches/apple-watch-series-8-stainless-steel-45-mm-ppd1cnbiqglq",
+        "specsScore": 94,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.0, GPS"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "32 GB Inbuilt"
+            },
+            {
+                "text": "1.77 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, WR50"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=125EKDV_SDNvJU7U_9F-.di3UhrhAgTYBOr3Uh7rBBTac8rUAtcFa3YaFcXcWBFcAaTTCTr3caAWcrBBcUanBa3rUC3acFauFs3cA3rFtciaUaAUh3h-hDh8go4gZiAl6gA5ZhmBYihkepJ7SJ.o4ov~wfJdhrhhaFhrhrhhacBrWahrhrBi5Au6YNWTNhrFB5CJPj8SCjwmo7",
+            "store": {
+                "imageSquareId": "1jV84HS1",
+                "slug": "flipkart"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd12owfxfpy",
+        "name": "Apple Watch Series 9 45mm Stainless Steel (GPS + Cellular)",
+        "priceDrop": -0.3652264,
+        "rating": 88,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 70499,
+        "fePrice": "₹70,499",
+        "imageId": "FH8vadgq",
+        "url": "/smartwatches/apple-watch-series-9-45mm-stainless-steel-ppd12owfxfpy",
+        "specsScore": 89,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "64 GB Inbuilt"
+            },
+            {
+                "text": "1.77 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, WR50, IP6X"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=12HZleBIItwV15xQ_N0ZsXt74GhrhAnIuU3rh7enr3UcJrUAtaFh-jBBTah-jBBTacJrUAtcea3YaFclc71eccwaTTCTr3cH4nnc73rBthscwrFacJYUtceBs3UcRhYh-o44HGXooh-6CIhrhhaFhrhrhhacBrWahrhrBi5os8gDgBIhrFB5O-mux7y49UEQ",
+            "store": {
+                "imageSquareId": "s3m58Ie0",
+                "slug": "myntra"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd11dxm053x",
+        "name": "Apple Watch Series 9 41mm Stainless Steel (GPS + Cellular)",
+        "priceDrop": -33.563488,
+        "rating": 82,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 67999,
+        "fePrice": "₹67,999",
+        "imageId": "d3slw9hf",
+        "url": "/smartwatches/apple-watch-series-9-41mm-stainless-steel-ppd11dxm053x",
+        "specsScore": 86,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "64 GB Inbuilt"
+            },
+            {
+                "text": "1.61 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, WR50, IP6X"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=125EKDV_SIfKZqp2s-I_b0l7YhrhAgTYBOr3Uh7rBBTac8rclcWBFcAaTTCTr3cH5nncWsTicArFacATrIcFBs3Uc6hYcFcnh-hDh8oAAZ4i4oPP4AihmBYihkepJ7zwof_JS7~~0whrhhaFhrhrhhacBrWahrhrBi55iDnP4ZDhrFB5yIwY2SjAqDOV",
+            "store": {
+                "imageSquareId": "1jV84HS1",
+                "slug": "flipkart"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd16mbvbhxy",
+        "name": "Apple Watch Series 11 46mm (GPS+Cellular)",
+        "priceDrop": 0,
+        "rating": 91,
+        "stock": "RUMORED",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 64999,
+        "fePrice": "₹64,999",
+        "imageId": "5MrAr4sD",
+        "url": "/smartwatches/apple-watch-series-11-46mm-gps-cellular-ppd16mbvbhxy",
+        "specsScore": 97,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.4, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "64 GB Inbuilt"
+            },
+            {
+                "text": "1.9 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 100 m"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": null
+    },
+    {
+        "type": "Product",
+        "id": "pd186tz7ice",
+        "name": "Apple Watch Series 10 46mm (GPS+Cellular)",
+        "priceDrop": -2.5645773,
+        "rating": 83,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 56490,
+        "fePrice": "₹56,490",
+        "imageId": "3D7biN9o",
+        "url": "/smartwatches/apple-watch-series-x-49mm-gps-cellular-ppd186tz7ice",
+        "specsScore": 96,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "64 GB Inbuilt"
+            },
+            {
+                "text": "1.89 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, WR50, IP6X"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=12--8CCS0zd.tbEyiQAPCHv7NhrhAA3snrh7rBBTac8rUAtcFa3YaFc5PcWBFhzAaTTCTr3c8YUtcFBs3Uc6hYcncTcHbnnc3aUYurcTUBsZcsTaiciYFBTrIcFYThCcrTCnYuYCncArFach-hDZPlHlZhrhhaFhrhrhhacBrWahrhrBi5XbUyGYAahrFB5tq4wIVZRWJUa",
+            "store": {
+                "imageSquareId": "4vfi1umq",
+                "slug": "croma"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1qnrose7y",
+        "name": "Samsung Galaxy Watch 6 Classic PXG Edition 43mm",
+        "priceDrop": 0,
+        "rating": 92,
+        "stock": "UPCOMING",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 56299,
+        "fePrice": "₹56,299",
+        "imageId": "4NcyOBmU",
+        "url": "/smartwatches/samsung-galaxy-watch6-classic-pxg-edition-ppd1qnrose7y",
+        "specsScore": 93,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "2 GB RAM, 16 GB Inbuilt"
+            },
+            {
+                "text": "1.5 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, IP68, MIL-STD-810H"
+            },
+            {
+                "text": "Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": null
+    },
+    {
+        "type": "Product",
+        "id": "pd1yinn22vs",
+        "name": "Apple Watch Series 10 42mm (GPS+Cellular)",
+        "priceDrop": -4.4847226,
+        "rating": 88,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 54999,
+        "fePrice": "₹54,999",
+        "imageId": "G8Q07AtU",
+        "url": "/smartwatches/apple-watch-series-10-45mm-gps-cellular-ppd1yinn22vs",
+        "specsScore": 96,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "64 GB Inbuilt"
+            },
+            {
+                "text": "1.53 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, WR50, IP6X"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12-VemzkwkZe1bgd6D_I.vCuOhrhArnrysuhyihDRPK7-b77m1h-hrhhaFhrhrhhacBrWahrhrBi5IYuuoo2FhrFB57.F-2VFQsvsV",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd19nb82p2d",
+        "name": "Samsung Galaxy Watch 6 Classic PXG Edition 40mm",
+        "priceDrop": 0,
+        "rating": 84,
+        "stock": "UPCOMING",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 54499,
+        "fePrice": "₹54,499",
+        "imageId": "zQ4DhDQv",
+        "url": "/smartwatches/samsung-galaxy-watch-6-classic-pxg-edition-ppd19nb82p2d",
+        "specsScore": 92,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "2 GB RAM, 16 GB Inbuilt"
+            },
+            {
+                "text": "1.3 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, IP68, MIL-STD-810H"
+            },
+            {
+                "text": "Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": null
+    },
+    {
+        "type": "Product",
+        "id": "pd16znzv7l9",
+        "name": "Apple Watch Series 8 45mm (GPS + Cellular)",
+        "priceDrop": 2.5542765,
+        "rating": 80,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 50999,
+        "fePrice": "₹50,999",
+        "imageId": "x4IQrjrq",
+        "url": "/smartwatches/apple-watch-series-8-45mm-gps-cellular-ppd16znzv7l9",
+        "specsScore": 96,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.0, GPS"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "1 GB RAM, 32 GB Inbuilt"
+            },
+            {
+                "text": "1.77 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, WR50"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=125EKDV_SDNvS8jplP8ORSU43hrhAgTYBOr3Uh7rBBTac8rUAtcFa3YaFcXcH4nncWBFcAaTTCTr3caAWcrBBcUanBa3rUC3acFauFs3cA3rFtciaUaAUh3h-hDh8HXiibZPXXHZoohmBYihkepJ7SJ.odvZjSZeVhrhhaFhrhrhhacBrWahrhrBi5byuy2GTlhrFB5NZO-xx8RoDPy",
+            "store": {
+                "imageSquareId": "1jV84HS1",
+                "slug": "flipkart"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1nvbc47cp",
+        "name": "Apple Watch Series 8 Stainless Steel 41 mm (GPS + Cellular)",
+        "priceDrop": 29.28449,
+        "rating": 93,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 48249,
+        "fePrice": "₹48,249",
+        "imageId": "VLAtgGwR",
+        "url": "/smartwatches/apple-watch-series-8-stainless-steel-41-mm-ppd1nvbc47cp",
+        "specsScore": 93,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.0, GPS"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Bluetooth Calling"
+            },
+            {
+                "text": "32 GB Inbuilt"
+            },
+            {
+                "text": "1.77 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, WR50"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=125EKDV_SDNvx1QQU1zjCwo--hrhAgTYBOr3Uh7rBBTac8rUAtcFa3YaFcXcWBFcAaTTCTr3caAWcrBBcUanBa3rUC3acFauFs3cA3rFtciaUaAUh3h-hDh8rb5bA4XZH6G6ghmBYihkepJ7SJ.o.GEJ4xlHhrhhaFhrhrhhacBrWahrhrBi5u26AHGABhrFB5K1XwQobd~41s",
+            "store": {
+                "imageSquareId": "1jV84HS1",
+                "slug": "flipkart"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1ouvz44ab",
+        "name": "Apple Watch Series 10 46mm (GPS)",
+        "priceDrop": -1.6339111,
+        "rating": 81,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 47190,
+        "fePrice": "₹47,190",
+        "imageId": "CkaHsR3a",
+        "url": "/smartwatches/apple-watch-series-10-46mm-gps-ppd1ouvz44ab",
+        "specsScore": 97,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Bluetooth Calling"
+            },
+            {
+                "text": "64 GB Inbuilt"
+            },
+            {
+                "text": "1.89 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, WR50, IP6X"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=12--8CCS0EupUf7kamZ.eT9bShrhAA3snrh7rBBTac8rUAtcFa3YaFc5PcWBFc8YUtcFBs3Uc6hYcncTcHbnnc3aUYurcTUBsZcsTaiciYFBTrIcFYThCcrTCnYuYCncArFach-hDZPlHbohrhhaFhrhrhhacBrWahrhrBi5sC2yHHr6hrFB5Z9bdnm8fSpnl",
+            "store": {
+                "imageSquareId": "4vfi1umq",
+                "slug": "croma"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1oro5ruzl",
+        "name": "Apple Watch Series 10 42mm (GPS)",
+        "priceDrop": -3.1420047,
+        "rating": 86,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 44290,
+        "fePrice": "₹44,290",
+        "imageId": "i3758rRJ",
+        "url": "/smartwatches/apple-watch-x-ppd1oro5ruzl",
+        "specsScore": 95,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Bluetooth Calling"
+            },
+            {
+                "text": "64 GB Inbuilt"
+            },
+            {
+                "text": "1.53 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, WR50, IP6X"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=12--8CCS0E46xysyTl.z.jyWkhrhAA3snrh7rBBTac8rUAtcFa3YaFc5PcWBFc8YUtcFBs3UcTssBcHonnc3aUYurcTUBsZcsTaiciYFBTrIcQaUchncrTCnYuCncArFach-hDZPlH45hrhhaFhrhrhhacBrWahrhrBi5s3s43CyThrFB5is2nK0CukOj7",
+            "store": {
+                "imageSquareId": "4vfi1umq",
+                "slug": "croma"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1es3vnqlm",
+        "name": "Apple Watch Series 9 45mm (GPS+Cellular)",
+        "priceDrop": 8.336469,
+        "rating": 83,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 41899,
+        "fePrice": "₹41,899",
+        "imageId": "Au3VSeva",
+        "url": "/smartwatches/apple-watch-series-9-45mm-gps-cellular-ppd1es3vnqlm",
+        "specsScore": 95,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling, Bluetooth Calling"
+            },
+            {
+                "text": "64 GB Inbuilt"
+            },
+            {
+                "text": "1.77 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, WR50, IP6X"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12-Vemzkw1zx.sd~4duEzeCaAhrhArnrysuhyihDRPwSfowX_4h-hrhhaFhrhrhhacBrWahrhrBi5aFZ2uNTnhrFB5x_bWh8yqRpB",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd131synzm4",
+        "name": "Apple Watch Series 8 41mm (GPS + Cellular)",
+        "priceDrop": 28.905704,
+        "rating": 93,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 34999,
+        "fePrice": "₹34,999",
+        "imageId": "c8D9q5Vi",
+        "url": "/smartwatches/apple-watch-series-8-41mm-gps-cellular-ppd131synzm4",
+        "specsScore": 88,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.0, GPS"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "32 GB Inbuilt"
+            },
+            {
+                "text": "1.61 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, WR50"
+            },
+            {
+                "text": "Scratch Resistant, Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=125EKDV_SDNvGI4yFsytxUdC0hrhAgTYBOr3Uh7rBBTac8rUAtcFa3YaFcXcH5nncWBFcAaTTCTr3caAWcrBBcUanBa3rUC3acFauFs3cA3rFtciaUaAUh3h-hDh844aPP4GPGZroahmBYihkepJ7SJ.oRffR7._XhrhhaFhrhrhhacBrWahrhrBi5Z5FIuynHhrFB5e42Qsdz_-bH_",
+            "store": {
+                "imageSquareId": "1jV84HS1",
+                "slug": "flipkart"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1g7cw1tbs",
+        "name": "Samsung Galaxy Watch 6 LTE 40mm",
+        "priceDrop": -4.1132545,
+        "rating": 89,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 41,
+            "canCompare": true
+        },
+        "price": 33999,
+        "fePrice": "₹33,999",
+        "imageId": "DJb5eiVE",
+        "url": "/smartwatches/samsung-galaxy-watch-6-ppd1g7cw1tbs",
+        "specsScore": 85,
+        "features": [
+            {
+                "text": "Wi-Fi, Bluetooth 5.3, GPS, NFC"
+            },
+            {
+                "text": "3G, 4G"
+            },
+            {
+                "text": "Voice Calling"
+            },
+            {
+                "text": "2 GB RAM, 16 GB Inbuilt"
+            },
+            {
+                "text": "1.3 inches Touch Display"
+            },
+            {
+                "text": "Water Resistant, 50 m, IP68, MIL-STD-810H"
+            },
+            {
+                "text": "Dust Proof"
+            },
+            {
+                "text": "Heart Rate Monitor"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=12HZleBIItKojSexz.HXQYSsTVhrhAnIuU3rh7enr3UcJrUAtaFh-ernFCuWh-ernFCuWc7rTrDIcJrUAtcbcmzqcHPnncwsnBrUY6Tac8YUtcjui3sYicsuTIh-oHHZ4PGPh-6CIhrhhaFhrhrhhacBrWahrhrBi5WGA85U6FhrFB5B1u3Duq.gwvZ",
+            "store": {
+            }
+        }
+    }
+]

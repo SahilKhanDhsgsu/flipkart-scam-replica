@@ -1,0 +1,1025 @@
+[
+    {
+        "type": "Product",
+        "id": "pd1cac9k592",
+        "name": "HP Victus 15-fb3004AX Gaming Laptop (AMD Ryzen 5 8645HS/ 16GB/ 512GB SSD/ Win11/ 4GB Graph)",
+        "priceDrop": 1.367332,
+        "rating": 87,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "brandId": 64,
+        "price": 58490,
+        "fePrice": "₹58,490",
+        "imageId": "uLhIxRDo",
+        "image_url": "https://cdn1.smartprix.com/rx-iuLhIxRDo-w280-h280/img.webp",
+        "url": "/laptops/hp-victus-15-fb3004ax-gaming-laptop-amd-ryzen-ppd1cac9k592",
+        "specsScore": 70,
+        "features": [
+            {
+                "text": "8th Gen AMD Ryzen 5 8645HS"
+            },
+            {
+                "text": "Hexa Core, 12 Threads"
+            },
+            {
+                "text": "16 GB DDR5 RAM"
+            },
+            {
+                "text": "512 GB SSD"
+            },
+            {
+                "text": "4 GB NVIDIA GeForce RTX 2050"
+            },
+            {
+                "text": "15.6 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=12GbaP3eDA0Z8G7YRsdYVCmFChrhAA3snrh7tBc2YAUCFc54cg6ZPPHrDcrnic3Iyauc4cWrnhNcTrBUsBc5bW6c45oW6cFFic8Yuis8Fc55ctsnacHW6cW3rBtYAFc54cbcYuAtc5HHctycgCTTcticYBFciYFBTrIcu2YiYrcWags3Aac3UDcoP4PcnFcsggYAactsnacoPoHcBa3gs3nruAac6TCacocolcOWch-hDZ5bPPHhrhhaFhrhrhhacBrWahrhrBi5ArAlO4lohrFB5T5ZH_ZVts4Pj",
+            "store": {
+                "imageSquareId": "4vfi1umq",
+                "slug": "croma"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1nk44kl44",
+        "name": "Apple MacBook Air 2025 Laptop (Apple M4/ 16GB/ 256GB SSD/ MacOS)",
+        "priceDrop": 3.1911733,
+        "rating": 95,
+        "stock": "ON_SALE",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 91099,
+        "fePrice": "₹91,099",
+        "imageId": "wKbUUYsj",
+        "image_url": "https://cdn1.smartprix.com/rx-iwKbUUYsj-w280-h280/img.webp",
+        "url": "/laptops/apple-macbook-air-2025-laptop-apple-m4-16gb-256gb-ppd1nk44kl44",
+        "specsScore": 45,
+        "features": [
+            {
+                "text": "Apple M4"
+            },
+            {
+                "text": "10 Cores (4P + 6E)"
+            },
+            {
+                "text": "16 GB  RAM"
+            },
+            {
+                "text": "256 GB SSD"
+            },
+            {
+                "text": "Apple 8 Core GPU"
+            },
+            {
+                "text": "13.6 inches, 2560 x 1664 pixels"
+            },
+            {
+                "text": "Mac OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12GGlv~.a_UqYkw_deQp2DdulhrhArnrysuhyihDRPK.KK~Holh-hrhhaFhrhrhhacBrWahrhrBi5uOHHOTHHhrFB5rG7ipmAZuPxm",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1tix2vwqx",
+        "name": "HP Victus 16-r1706TX Gaming Laptop (14th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB RTX 4050 Graph)",
+        "priceDrop": -5.784367,
+        "rating": 81,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 89990,
+        "fePrice": "₹89,990",
+        "imageId": "JjnUTDHe",
+        "url": "/laptops/hp-victus-16-r1706tx-gaming-laptop-14th-gen-ppd1tix2vwqx",
+        "specsScore": 72,
+        "features": [
+            {
+                "text": "14th Gen Intel Core i5 14450HX"
+            },
+            {
+                "text": "10 Cores (6P + 4E), 16 Threads"
+            },
+            {
+                "text": "16 GB DDR5 RAM"
+            },
+            {
+                "text": "512 GB SSD"
+            },
+            {
+                "text": "6 GB NVIDIA GeForce RTX 4050"
+            },
+            {
+                "text": "16.1 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=12_IwbPnYFYf9Z-OSopPNS1xhrhAgTYBOr3Uh7tBc2YAUCFcYuUaTcAs3acY4c5HUtcWauc5HH4PtDc5bcW6c45ocW6cFFic8Yuis8Fc55ctsnacbcW3rBtYAFcu2YiYrcWags3Aac3UDcHP4Pc5bc35GPbUDcWrnhNcTrBUshDhDh8Xr6lgi4l6HbgXhmBYihkwkpSKS7Svo1p-fSzhrhhaFhrhrhhacBrWahrhrBi5UYDo28NDhrFB5-gy506naVt5G",
+            "store": {
+                "imageSquareId": "1jV84HS1",
+                "slug": "flipkart"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1dcbv7dyc",
+        "name": "HP Victus 15-fa1319TX Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB RTX 4050)",
+        "priceDrop": -11.9075365,
+        "rating": 91,
+        "stock": "UNKNOWN", 
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 76490,
+        "fePrice": "₹76,490",
+        "imageId": "MOXQa3Mw",
+        "url": "/laptops/hp-victus-15-fa1319tx-gaming-laptop-13th-ppd1dcbv7dyc",
+        "specsScore": 61,
+        "features": [
+            {
+                "text": "13th Gen Intel Core i5 13420H"
+            },
+            {
+                "text": "Octa Core (4P + 4E), 12 Threads"
+            },
+            {
+                "text": "16 GB DDR4 RAM"
+            },
+            {
+                "text": "512 GB SSD"
+            },
+            {
+                "text": "6 GB NVIDIA GeForce RTX 4050"
+            },
+            {
+                "text": "15.6 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12GGlv~.a_RwUxtVg3VRf28i.hrhArnrysuhyihDRPK5f-vo.fh-hrhhaFhrhrhhacBrWahrhrBi5iA62GiIAhrFB5WpbvOu5VSxgV",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd19mpry3l9",
+        "name": "HP Victus 15-fb3009AX Gaming Laptop (AMD Ryzen 5 8645HS/ 16GB/ 512GB SSD/ Win11/ 6GB Graph)",
+        "priceDrop": -5.706681,
+        "rating": 87,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 71990,
+        "fePrice": "₹71,990",
+        "imageId": "baM2JizY",
+        "url": "/laptops/hp-victus-15-fb3009ax-gaming-laptop-amd-ryzen-ppd19mpry3l9",
+        "specsScore": 72,
+        "features": [
+            {
+                "text": "8th Gen AMD Ryzen 5 8645HS"
+            },
+            {
+                "text": "Hexa Core, 12 Threads"
+            },
+            {
+                "text": "16 GB DDR5 RAM"
+            },
+            {
+                "text": "512 GB SSD"
+            },
+            {
+                "text": "6 GB NVIDIA GeForce RTX 3050"
+            },
+            {
+                "text": "15.6 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12GGlv~.a_Rw3jobooWCCSxgDhrhArnrysuhyihDRPKzf_H0p1h-hrhhaFhrhrhhacBrWahrhrBi5lnB3IZTlhrFB5dmv8UiFD2Uyo",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1xlkdo22l",
+        "name": "HP Victus 15-fb3012AX Gaming Laptop (AMD Ryzen 5 8645HS/ 16GB/ 512GB SSD/ Win11/ 6GB Graph)",
+        "priceDrop": 4.8286476,
+        "rating": 82,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 66400,
+        "fePrice": "₹66,400",
+        "imageId": "fsyyr3XR",
+        "url": "/laptops/hp-victus-15-fb3012ax-gaming-laptop-amd-ryzen-ppd1xlkdo22l",
+        "specsScore": 72,
+        "features": [
+            {
+                "text": "8th Gen AMD Ryzen 5 8645HS"
+            },
+            {
+                "text": "Hexa Core, 12 Threads"
+            },
+            {
+                "text": "16 GB DDR5 RAM"
+            },
+            {
+                "text": "512 GB SSD"
+            },
+            {
+                "text": "6 GB NVIDIA GeForce RTX 3050"
+            },
+            {
+                "text": "15.6 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12GGlv~.a_RwuVIY2HHB1BSxDhrhArnrysuhyihDRPxZ1HdHmRh-hrhhaFhrhrhhacBrWahrhrBi5DTOisooThrFB5um1k.zryBomI",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1cp1461g1",
+        "name": "HP Omen 16-wf1096TX Gaming Laptop (14th Gen Core i7/ 16GB/ 1TB SSD/ Win11/ 8GB Graph)",
+        "priceDrop": -2.1676402,
+        "rating": 88,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 119355,
+        "fePrice": "₹1,19,355",
+        "imageId": "PMkkmEro",
+        "url": "/laptops/hp-omen-16-wf1096tx-gaming-laptop-14th-gen-ppd1cp1461g1",
+        "specsScore": 79,
+        "features": [
+            {
+                "text": "14th Gen Intel Core i7 14650HX"
+            },
+            {
+                "text": "16 Cores (8P + 8E), 24 Threads"
+            },
+            {
+                "text": "16 GB DDR5 RAM"
+            },
+            {
+                "text": "1 TB SSD"
+            },
+            {
+                "text": "8 GB NVIDIA GeForce RTX 4060"
+            },
+            {
+                "text": "16.1 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12-kEQTvRJpBSQaDXwHXY60l_PhrhArnrysuhyihDRPK5fmGofbh-hrhhaFhrhrhhacBrWahrhrBi5AB5Hb5W5hrFB5Xe0~U1xA8-X2",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1legzqinv",
+        "name": "Apple MacBook Air 2022 Laptop (Apple M2/ 8GB/ 256GB SSD/ MacOS)",
+        "priceDrop": 2.6413276,
+        "rating": 83,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 71990,
+        "fePrice": "₹71,990",
+        "imageId": "C1uclsPb",
+        "url": "/laptops/apple-macbook-air-2022-laptop-apple-m2-8gb-ppd1legzqinv",
+        "specsScore": 50,
+        "features": [
+            {
+                "text": "Apple M2"
+            },
+            {
+                "text": "Octa Core (4P + 4E)"
+            },
+            {
+                "text": "8 GB DDR4 RAM"
+            },
+            {
+                "text": "256 GB SSD"
+            },
+            {
+                "text": "8-Core GPU"
+            },
+            {
+                "text": "13.6 inches, 2560 x 1664 pixels"
+            },
+            {
+                "text": "Mac OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12GGlv~.a_UqJ24ray6ZYSwTOhrhArnrysuhyihDRPRZRpVp71h-hrhhaFhrhrhhacBrWahrhrBi5TaWyNYu2hrFB5stuIUQuV~bdU",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd19zujp6og",
+        "name": "HP Victus 15-fa2104TX  Gaming Laptop (13th Gen Core i7/ 16GB/ 512GB SSD/ Win11 Home/ 6GB Graph)",
+        "priceDrop": 0,
+        "rating": 91,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 85990,
+        "fePrice": "₹85,990",
+        "imageId": "aKttV3ah",
+        "url": "/laptops/hp-victus-15-fa2104tx-gaming-laptop-13th-ppd19zujp6og",
+        "specsScore": 65,
+        "features": [
+            {
+                "text": "13th Gen Intel Core i7 13620H"
+            },
+            {
+                "text": "10 Cores (6P + 4E), 16 Threads"
+            },
+            {
+                "text": "16 GB DDR4 RAM"
+            },
+            {
+                "text": "512 GB SSD"
+            },
+            {
+                "text": "6 GB NVIDIA GeForce RTX 4050"
+            },
+            {
+                "text": "15.6 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=12GbaP3eDA0Hw6eWNUNK1K1TehrhAA3snrh7tBc2YAUCFc54cgro5PHUDcYuUaTcAs3acYGc5ZUtcWaucWrnhNcTrBUsBc5bW6c45oW6cFFic8Yuis8Fc55ctsnacbW6cW3rBtYAFc54cbcYuAtc5HHctycYBFcgCTTcticiYFBTrIcu2YiYrcWags3Aac3UDcHP4PcnYArcFYThCcocolcOWch-hDZ5bH5lhrhhaFhrhrhhacBrWahrhrBi5lyCQBbsWhrFB5ZoTzPpXopB4W",
+            "store": {
+                "imageSquareId": "4vfi1umq",
+                "slug": "croma"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1vyyinbq2",
+        "name": "HP Victus 15-fb3025AX Gaming Laptop (AMD Ryzen 9 8945HS/ 16GB/ 1TB SSD/ Win11/ 8GB Graph)",
+        "priceDrop": 1.5194538,
+        "rating": 81,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 100990,
+        "fePrice": "₹1,00,990",
+        "imageId": "sGZQwKCN",
+        "url": "/laptops/hp-victus-15-fb3025ax-gaming-laptop-amd-ryzen-ppd1vyyinbq2",
+        "specsScore": 77,
+        "features": [
+            {
+                "text": "8th Gen AMD Ryzen 9 8945HS"
+            },
+            {
+                "text": "Octa Core, 16 Threads"
+            },
+            {
+                "text": "16 GB DDR5 RAM"
+            },
+            {
+                "text": "1 TB SSD"
+            },
+            {
+                "text": "8 GB NVIDIA GeForce RTX 4060"
+            },
+            {
+                "text": "15.6 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=12-dGHmQ8_Fg4TZ3tYT49.XEWwhrhAA3snrh7tBc2YAUCFc54cg6ZPo4rDcrnic3IyauclcWrnhNcTrBUsBc5bW6c5U6cFFic8Yuis8Fc55ctsnacXW6cW3rBtYAFc54cbcYuAtc5HHctycgCTTcticYBFciYFBTrIcu2YiYrcWags3Aac3UDcHPbPcnFcsgYAactsnacoPoHcBa3gs3nruAac6TCacocolcOWch-hDZ54ZXPhrhhaFhrhrhhacBrWahrhrBi52IIYu6NohrFB5ysfZz60qGGP8",
+            "store": {
+                "imageSquareId": "4vfi1umq",
+                "slug": "croma"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd15djai9ea",
+        "name": "HP Victus 15-fb2114AX Gaming Laptop (AMD Ryzen 7 8845HS/ 16GB/ 512GB SSD/ Win11/ 6GB Graph)",
+        "priceDrop": -2.0789647,
+        "rating": 82,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 84490,
+        "fePrice": "₹84,490",
+        "imageId": "7E7kmGBp",
+        "url": "/laptops/hp-victus-15-fb2114ax-gaming-laptop-amd-ryzen-ppd15djai9ea",
+        "specsScore": 73,
+        "features": [
+            {
+                "text": "8th Gen AMD Ryzen 7 8845HS"
+            },
+            {
+                "text": "Octa Core, 16 Threads"
+            },
+            {
+                "text": "16 GB DDR5 RAM"
+            },
+            {
+                "text": "512 GB SSD"
+            },
+            {
+                "text": "6 GB NVIDIA GeForce RTX 4050"
+            },
+            {
+                "text": "15.6 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=12_IwbPnQrEX4b4FrrjVvQ9qhrhAgTYBOr3Uh7tBc2YAUCFcZlcUsBFcrnic3IyaucGcsAUrcAs3acXXH4tFc5bcW6c45ocW6cFFic8Yuis8Fc55ctsnacbcW3rBtYAFcu2YiYrcWags3Aac3UDcHP4Pc5HHctyc54cg6o55HrDcWrnhNcTrBUshDhDh8Gr4b5GiHiGAaohmBYihkwkpSoKfoxpwv.wvKhrhhaFhrhrhhacBrWahrhrBi54iQrYlarhrFB5GEbENeb8NA-0",
+            "store": {
+                "imageSquareId": "1jV84HS1",
+                "slug": "flipkart"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1mup8is60",
+        "name": "HP Omen 16-xd0015AX Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 1TB SSD/ Win11/ 6GB Graph)",
+        "priceDrop": 1.1858544,
+        "rating": 85,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 94900,
+        "fePrice": "₹94,900",
+        "imageId": "X659s0R9",
+        "url": "/laptops/hp-omen-16-xd0015ax-gaming-laptop-amd-ryzen-ppd1mup8is60",
+        "specsScore": 75,
+        "features": [
+            {
+                "text": "7th Gen AMD Ryzen 7 7840HS"
+            },
+            {
+                "text": "Octa Core, 16 Threads"
+            },
+            {
+                "text": "16 GB DDR5 RAM"
+            },
+            {
+                "text": "1 TB SSD"
+            },
+            {
+                "text": "6 GB NVIDIA GeForce RTX 4050"
+            },
+            {
+                "text": "16.1 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12GGlv~.a_FIW0r~wO~k6nmafhrhArnrysuhyihDRPKbvlHRvvh-hrhhaFhrhrhhacBrWahrhrBi5nCBXYFbPhrFB5gwmnUuv5d~WZ",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd144lb3wq6",
+        "name": "HP ‎15-fd0467TU Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home)",
+        "priceDrop": 1.0668061,
+        "rating": 84,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 55990,
+        "fePrice": "₹55,990",
+        "imageId": "ZHBMrOJe",
+        "url": "/laptops/hp-15-fd0467tu-laptop-13th-gen-core-i5-16gb-ppd144lb3wq6",
+        "specsScore": 57,
+        "features": [
+            {
+                "text": "13th Gen Intel Core i5 1334U"
+            },
+            {
+                "text": "10 Cores (2P + 8E), 12 Threads"
+            },
+            {
+                "text": "16 GB DDR4 RAM"
+            },
+            {
+                "text": "512 GB SSD"
+            },
+            {
+                "text": "‎Intel Iris Xe Graphics"
+            },
+            {
+                "text": "15.6 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12GGlv~.a_UqpD5qkuiyUgITShrhArnrysuhyihDRPKzVlK.RHh-hrhhaFhrhrhhacBrWahrhrBi5HHT6Z8NbhrFB5jnUjdgj062gW",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1q9l3eo7a",
+        "name": "Apple MacBook Air 2025 Laptop (Apple M4/ 16GB/ 512GB SSD/ MacOS/ 10-Core GPU)",
+        "priceDrop": 2.0167325,
+        "rating": 85,
+        "stock": "ON_SALE",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 115990,
+        "fePrice": "₹1,15,990",
+        "imageId": "wKbUUYsj",
+        "url": "/laptops/apple-macbook-air-2025-laptop-apple-m4-16gb-ppd1q9l3eo7a",
+        "specsScore": 47,
+        "features": [
+            {
+                "text": "Apple M4"
+            },
+            {
+                "text": "10 Cores (4P + 6E)"
+            },
+            {
+                "text": "16 GB  RAM"
+            },
+            {
+                "text": "512 GB SSD"
+            },
+            {
+                "text": "Apple 10 Core GPU"
+            },
+            {
+                "text": "13.6 inches, 2560 x 1664 pixels"
+            },
+            {
+                "text": "Mac OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12-kEQTvRJd_Z5jTZn.d6JY_TthrhArnrysuhyihDRPK.K7V7dGh-hrhhaFhrhrhhacBrWahrhrBi5NlTZasGrhrFB5l8-PltVPJUjx",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1slbmde84",
+        "name": "Samsung Galaxy Book 4 np750xgj-kg2in Laptop (13th Gen Intel Core i5-1335U/ 16GB/ 512GB SSD/ Win11)",
+        "priceDrop": 2.201374,
+        "rating": 81,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 54499,
+        "fePrice": "₹54,499",
+        "imageId": "pPNIsNt2",
+        "url": "/laptops/samsung-galaxy-book-4-np750xgj-kg2in-laptop-ppd1slbmde84",
+        "specsScore": 57,
+        "features": [
+            {
+                "text": "13th Gen Intel Core i5 1335U"
+            },
+            {
+                "text": "10 Cores (2P + 8E), 12 Threads"
+            },
+            {
+                "text": "16 GB LPDDR4x RAM"
+            },
+            {
+                "text": "512 GB SSD"
+            },
+            {
+                "text": "Intel Iris Xe Graphics"
+            },
+            {
+                "text": "15.6 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12GGlv~.afryIffzFD3u4zeRShrhArnrysuhyihDRPK5HZe-lvh-hrhhaFhrhrhhacBrWahrhrBi5FT6niaXHhrFB5w6ftkbiZDyvq",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1yt4q4c01",
+        "name": "HP Pavilion Plus ‎16-ab0015TX Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win 11/ 6GB RTX3050 Graphics",
+        "priceDrop": 8.5240965,
+        "rating": 85,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 77490,
+        "fePrice": "₹77,490",
+        "imageId": "GQHFFO3X",
+        "url": "/laptops/hp-pavilion-plus-16-ab0015tx-laptop-13th-ppd1yt4q4c01",
+        "specsScore": 69,
+        "features": [
+            {
+                "text": "13th Gen Intel Core i5 13500H"
+            },
+            {
+                "text": "12 Cores (4P + 8E), 16 Threads"
+            },
+            {
+                "text": "16 GB LPDDR5x RAM"
+            },
+            {
+                "text": "512 GB SSD"
+            },
+            {
+                "text": "6 GB NVIDIA GeForce RTX 3050"
+            },
+            {
+                "text": "16 inches, 2560 x 1600 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12GGlv~.a_RwUtuj1WrIEO1IwhrhArnrysuhyihDRPKobbKe7Gh-hrhhaFhrhrhhacBrWahrhrBi5IUHNHAP5hrFB5WU6EfJ_mvoGG",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd13mqgsw44",
+        "name": "HP Omen 16-xf0060AX Gaming Laptop (AMD Ryzen 7 7840HS/ 16GB/ 1TB SSD/ Win11/ 8GB Graph)",
+        "priceDrop": 1.4214463,
+        "rating": 94,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 105490,
+        "fePrice": "₹1,05,490",
+        "imageId": "KqCat16t",
+        "url": "/laptops/hp-omen-16-xf0060ax-gaming-laptop-amd-ryzen-ppd13mqgsw44",
+        "specsScore": 78,
+        "features": [
+            {
+                "text": "7th Gen AMD Ryzen 7 7840HS"
+            },
+            {
+                "text": "Octa Core, 16 Threads"
+            },
+            {
+                "text": "16 GB DDR5 RAM"
+            },
+            {
+                "text": "1 TB SSD"
+            },
+            {
+                "text": "8 GB NVIDIA GeForce RTX 4060"
+            },
+            {
+                "text": "16 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12-kEQTvREvJe2Z3~rCIdY1sJBhrhArnrysuhyihDRPww0.1XZ4h-hrhhaFhrhrhhacBrWahrhrBi5ZnNWF8HHhrFB5swKCZpnX7e6e",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1qcpd5gj6",
+        "name": "Apple MacBook Air 2020 MGND3HN Laptop (Apple M1/ 8GB/ 256GB SSD/ MacOS)",
+        "priceDrop": -9.805952,
+        "rating": 92,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 64990,
+        "fePrice": "₹64,990",
+        "imageId": "XMsgRkkm",
+        "url": "/laptops/apple-macbook-air-2020-mgnd3hn-laptop-apple-ppd1qcpd5gj6",
+        "specsScore": 43,
+        "features": [
+            {
+                "text": "Apple M1"
+            },
+            {
+                "text": "Octa Core (4P + 4E)"
+            },
+            {
+                "text": "8 GB DDR4 RAM"
+            },
+            {
+                "text": "256 GB SSD"
+            },
+            {
+                "text": "Apple M1 Integrated Graphics"
+            },
+            {
+                "text": "13.3 inches, 2560 x 1600 pixels"
+            },
+            {
+                "text": "Mac OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12GGlv~.af6PHAzXlE0rE5qFPhrhArnrysuhyihDRPXd4JHddRh-hrhhaFhrhrhhacBrWahrhrBi5NABi4WQbhrFB5z6O5xCQbPt~.",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1iq3si77s",
+        "name": "HP Victus 16-r1705TX Gaming Laptop (14th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB RTX3050 Graph)",
+        "priceDrop": 3.7998781,
+        "rating": 93,
+        "stock": "IN_STOCK",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 80990,
+        "fePrice": "₹80,990",
+        "imageId": "iYh36MgZ",
+        "url": "/laptops/hp-victus-16-r1703tx-gaming-laptop-14th-gen-ppd1iq3si77s",
+        "specsScore": 72,
+        "features": [
+            {
+                "text": "14th Gen Intel Core i5 14450HX"
+            },
+            {
+                "text": "10 Cores (6P + 4E), 16 Threads"
+            },
+            {
+                "text": "16 GB DDR5 RAM"
+            },
+            {
+                "text": "512 GB SSD"
+            },
+            {
+                "text": "6 GB NVIDIA GeForce RTX 3050"
+            },
+            {
+                "text": "16.1 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "IN_STOCK",
+            "trackingLink": "https://l.smartprix.com/l?k=12_IwbPnYFYEKws4B6dipJB6hrhAgTYBOr3Uh7tBc2YAUCFcYuUaTcAs3acY4c5HUtcWauc5HH4PtDc5bcW6c45ocW6cFFic8Yuis8Fc55ctsnacbcW3rBtYAFcu2YiYrcWags3Aac3UDcZP4Pc5HHctyc5bc35GP4UDcWrnhNcTrBUshDhDh8Aboa6AoHAoAgihmBYihkwkpSR.zZXl0JZwfjhrhhaFhrhrhhacBrWahrhrBi5YNZFYGGFhrFB5m~y36COuN9e8",
+            "store": {
+                "imageSquareId": "1jV84HS1",
+                "slug": "flipkart"
+            }
+        }
+    },
+    {
+        "type": "Product",
+        "id": "pd1g6r8845q",
+        "name": "HP Victus 15-fa2701TX Gaming Laptop (13th Gen Core i5/ 16GB/ 512GB SSD/ Win11 Home/ 6GB RTX 4050)",
+        "priceDrop": 4.9048104,
+        "rating": 86,
+        "stock": "UNKNOWN",
+        "category": {
+            "id": 16,
+            "canCompare": true
+        },
+        "price": 74990,
+        "fePrice": "₹74,990",
+        "imageId": "PXOah5bZ",
+        "url": "/laptops/hp-victus-15-fa2701tx-gaming-laptop-13th-ppd1g6r8845q",
+        "specsScore": 65,
+        "features": [
+            {
+                "text": "13th Gen Intel Core i5 13420H"
+            },
+            {
+                "text": "Octa Core (4P + 4E), 12 Threads"
+            },
+            {
+                "text": "16 GB DDR4 RAM"
+            },
+            {
+                "text": "512 GB SSD"
+            },
+            {
+                "text": "6 GB NVIDIA GeForce RTX 4050"
+            },
+            {
+                "text": "15.6 inches, 1920 x 1080 pixels"
+            },
+            {
+                "text": "Windows 11 OS"
+            },
+            {
+                "text": "1 Year Warranty"
+            }
+        ],
+        "bestStore": {
+            "stock": "UNKNOWN",
+            "trackingLink": "https://l.smartprix.com/l?k=12GGlv~.a_UqfSd4Fz1p8UQzRhrhArnrysuhyihDRPxZ1Z~pZ0h-hrhhaFhrhrhhacBrWahrhrBi5Wb3XXH4NhrFB51n-xSTSKZX.9",
+            "store": {
+                "imageSquareId": "R2NxBi82",
+                "slug": "amazon"
+            }
+        }
+    }
+]
