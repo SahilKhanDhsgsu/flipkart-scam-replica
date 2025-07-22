@@ -1,5 +1,5 @@
 
-import { Star, Shield, Truck, RotateCcw } from 'lucide-react';
+import { Star, Shield, Truck, RotateCcw, Heart, Share2 } from 'lucide-react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 
@@ -8,166 +8,196 @@ const ProductDetail = () => {
     <div className="min-h-screen bg-gray-50">
       <Header />
       
-      <div className="max-w-7xl mx-auto px-4 py-8">
-        <div className="bg-white rounded-lg shadow-sm p-6">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+      {/* Breadcrumb */}
+      <div className="max-w-7xl mx-auto px-4 py-2">
+        <div className="text-sm text-gray-600">
+          <span>Home</span> &gt; <span>Mobiles & Accessories</span> &gt; <span>Mobiles</span> &gt; <span>Apple Mobiles</span> &gt; <span className="text-gray-900">Apple iPhone...</span>
+        </div>
+      </div>
+      
+      <div className="max-w-7xl mx-auto px-4 py-4">
+        <div className="bg-white rounded-lg shadow-sm">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 p-6">
             {/* Product Images */}
             <div className="space-y-4">
-              <div className="aspect-square bg-gray-100 rounded-lg overflow-hidden">
-                <img 
-                  src="https://via.placeholder.com/400x400/2874F0/FFFFFF?text=Smartphone+X" 
-                  alt="Smartphone Model X"
-                  className="w-full h-full object-cover"
-                />
+              <div className="flex gap-4">
+                {/* Thumbnail Images */}
+                <div className="flex flex-col space-y-2">
+                  {[1, 2, 3, 4].map((item) => (
+                    <div key={item} className="w-12 h-12 border border-gray-200 rounded cursor-pointer hover:border-blue-500">
+                      <img 
+                        src="https://via.placeholder.com/50x50/2874F0/FFFFFF?text=📱" 
+                        alt={`Product view ${item}`}
+                        className="w-full h-full object-cover rounded"
+                      />
+                    </div>
+                  ))}
+                </div>
+                
+                {/* Main Product Image */}
+                <div className="flex-1 aspect-square bg-gray-50 rounded-lg overflow-hidden">
+                  <img 
+                    src="https://via.placeholder.com/400x400/2874F0/FFFFFF?text=iPhone+16" 
+                    alt="Apple iPhone 16"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
               </div>
               
-              {/* Scam Element: Urgency */}
-              <div className="bg-red-50 border border-red-200 rounded-lg p-3">
-                <div className="flex items-center justify-between">
-                  <span className="text-red-600 font-medium text-sm">🔥 Hurry! Only 2 left in stock!</span>
-                  <span className="text-red-500 text-xs">23:45:12</span>
-                </div>
+              {/* Action Buttons */}
+              <div className="flex space-x-4">
+                <button className="w-full bg-[#FF9F00] hover:bg-orange-500 text-white font-bold py-3 px-6 rounded-sm text-lg transition-colors flex items-center justify-center space-x-2">
+                  <span>🛒</span>
+                  <span>ADD TO CART</span>
+                </button>
+                <button className="w-full bg-[#FB641B] hover:bg-red-600 text-white font-bold py-3 px-6 rounded-sm text-lg transition-colors flex items-center justify-center space-x-2">
+                  <span>⚡</span>
+                  <span>BUY NOW</span>
+                </button>
               </div>
             </div>
 
             {/* Product Details */}
-            <div className="space-y-6">
-              <div>
-                <h1 className="text-3xl font-bold text-gray-900 mb-2">Smartphone Model X</h1>
-                <div className="flex items-center space-x-2 mb-4">
-                  <div className="flex items-center">
-                    {[...Array(5)].map((_, i) => (
-                      <Star key={i} className="w-4 h-4 fill-yellow-400 text-yellow-400" />
-                    ))}
-                    <span className="ml-2 text-sm text-gray-600">(2,847 reviews)</span>
-                  </div>
+            <div className="space-y-4">
+              <div className="flex items-center justify-between">
+                <h1 className="text-xl font-normal text-gray-900">Apple iPhone 16 (White, 128 GB)</h1>
+                <div className="flex items-center space-x-2">
+                  <button className="p-2 hover:bg-gray-100 rounded">
+                    <Heart className="w-5 h-5 text-gray-600" />
+                  </button>
+                  <button className="p-2 hover:bg-gray-100 rounded">
+                    <Share2 className="w-5 h-5 text-gray-600" />
+                  </button>
                 </div>
+              </div>
+
+              {/* Rating */}
+              <div className="flex items-center space-x-2">
+                <div className="flex items-center bg-green-600 text-white px-2 py-1 rounded text-sm">
+                  <span className="font-medium">4.6</span>
+                  <Star className="w-3 h-3 ml-1 fill-white" />
+                </div>
+                <span className="text-gray-600 text-sm">19,106 Ratings & 793 Reviews</span>
+                <span className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs">Assured</span>
+              </div>
+
+              {/* Special Price */}
+              <div className="bg-green-50 border border-green-200 rounded p-3">
+                <span className="text-green-700 font-medium text-sm">Extra ₹5000 off</span>
               </div>
 
               {/* Pricing */}
               <div className="space-y-2">
                 <div className="flex items-center space-x-3">
-                  <span className="text-3xl font-bold text-gray-900">₹12,499</span>
-                  <span className="text-xl text-gray-500 line-through">₹25,000</span>
-                  <span className="bg-green-100 text-green-800 px-2 py-1 rounded text-sm font-medium">50% off</span>
+                  <span className="text-3xl font-medium text-gray-900">₹74,900</span>
+                  <span className="text-lg text-gray-500 line-through">₹79,000</span>
+                  <span className="text-green-600 font-medium">6% off</span>
                 </div>
-                <p className="text-green-600 font-medium">You save ₹12,501!</p>
+                <p className="text-xs text-gray-600">+ ₹109 Protect Promise Fee <span className="text-blue-600 cursor-pointer">Learn more</span></p>
+                <p className="text-xs text-gray-700">Secure delivery by <strong>26 Jul, Saturday</strong></p>
               </div>
 
-              {/* Scam Element: Limited Time Offer */}
-              <div className="bg-yellow-50 border-2 border-yellow-300 rounded-lg p-4">
-                <div className="flex items-center space-x-2 mb-2">
-                  <span className="text-yellow-600 font-bold">⚡ LIMITED TIME OFFER!</span>
+              {/* Available Offers */}
+              <div className="space-y-3">
+                <h3 className="font-medium text-gray-900">Available offers</h3>
+                <div className="space-y-2">
+                  <div className="flex items-start space-x-2 text-sm">
+                    <span className="text-green-600">🏷️</span>
+                    <span><strong>Bank Offer</strong> 5% cashback on Flipkart Axis Bank Credit Card upto ₹4,000 per statement quarter <span className="text-blue-600 cursor-pointer">T&C</span></span>
+                  </div>
+                  <div className="flex items-start space-x-2 text-sm">
+                    <span className="text-green-600">🏷️</span>
+                    <span><strong>Bank Offer</strong> 5% cashback on Axis Bank Flipkart Debit Card up to ₹750 <span className="text-blue-600 cursor-pointer">T&C</span></span>
+                  </div>
+                  <div className="flex items-start space-x-2 text-sm">
+                    <span className="text-green-600">🏷️</span>
+                    <span><strong>Bank Offer</strong> Flat ₹10 Instant Cashback on Paytm UPI Txns. Min Order Value ₹500. Valid once per Paytm account <span className="text-blue-600 cursor-pointer">T&C</span></span>
+                  </div>
+                  <div className="flex items-start space-x-2 text-sm">
+                    <span className="text-green-600">🏷️</span>
+                    <span><strong>Special Price</strong> Get extra ₹5000 off (price inclusive of cashback/coupon) <span className="text-blue-600 cursor-pointer">T&C</span></span>
+                  </div>
                 </div>
-                <p className="text-sm text-yellow-700">This special price expires in 24 hours. Don't miss out!</p>
+                <button className="text-blue-600 text-sm font-medium">View 7 more offers</button>
               </div>
 
-              {/* Product Description */}
-              <div>
-                <h3 className="text-lg font-semibold mb-3">Product Description</h3>
-                <p className="text-gray-600 leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                </p>
+              {/* Purchase Options */}
+              <div className="space-y-3 border-t pt-4">
+                <div className="flex items-center space-x-3">
+                  <input type="radio" id="without-exchange" name="purchase-option" className="text-blue-600" defaultChecked />
+                  <label htmlFor="without-exchange" className="flex-1 flex justify-between">
+                    <span>Buy without Exchange</span>
+                    <span className="font-medium">₹74,900</span>
+                  </label>
+                </div>
+                <div className="flex items-center space-x-3">
+                  <input type="radio" id="with-exchange" name="purchase-option" className="text-blue-600" />
+                  <label htmlFor="with-exchange" className="flex-1 flex justify-between">
+                    <span>Buy with Exchange</span>
+                    <span className="font-medium text-blue-600">up to ₹59,500 off</span>
+                  </label>
+                </div>
               </div>
 
-              {/* Specifications */}
-              <div>
-                <h3 className="text-lg font-semibold mb-3">Key Specifications</h3>
-                <div className="grid grid-cols-2 gap-4 text-sm">
-                  <div className="flex justify-between py-2 border-b">
-                    <span className="text-gray-600">Screen Size</span>
-                    <span className="font-medium">6.5 inches</span>
+              {/* Warranty */}
+              <div className="border-t pt-4">
+                <div className="flex items-center space-x-2">
+                  <span className="text-2xl">🍎</span>
+                  <span className="text-sm text-gray-700">1 year warranty for phone and 1 year warranty for in Box Accessories. <span className="text-blue-600 cursor-pointer">Know More</span></span>
+                </div>
+              </div>
+
+              {/* Color and Storage Options */}
+              <div className="space-y-4 border-t pt-4">
+                <div>
+                  <h4 className="font-medium mb-2">Color</h4>
+                  <div className="flex space-x-2">
+                    {[
+                      { name: 'Black', color: 'bg-gray-800' },
+                      { name: 'Pink', color: 'bg-pink-300' },
+                      { name: 'Teal', color: 'bg-teal-400' },
+                      { name: 'Ultramarine', color: 'bg-blue-600' }
+                    ].map((color) => (
+                      <div key={color.name} className="text-center">
+                        <div className={`w-8 h-8 ${color.color} rounded-full border-2 border-gray-300 cursor-pointer`}></div>
+                        <span className="text-xs text-gray-600 mt-1 block">{color.name}</span>
+                      </div>
+                    ))}
                   </div>
-                  <div className="flex justify-between py-2 border-b">
-                    <span className="text-gray-600">Processor</span>
-                    <span className="font-medium">Octa-core</span>
-                  </div>
-                  <div className="flex justify-between py-2 border-b">
-                    <span className="text-gray-600">RAM</span>
-                    <span className="font-medium">6GB</span>
-                  </div>
-                  <div className="flex justify-between py-2 border-b">
-                    <span className="text-gray-600">Storage</span>
-                    <span className="font-medium">128GB</span>
-                  </div>
-                  <div className="flex justify-between py-2 border-b">
-                    <span className="text-gray-600">Camera</span>
-                    <span className="font-medium">48MP</span>
-                  </div>
-                  <div className="flex justify-between py-2 border-b">
-                    <span className="text-gray-600">Battery</span>
-                    <span className="font-medium">5000mAh</span>
+                </div>
+                
+                <div>
+                  <h4 className="font-medium mb-2">Storage</h4>
+                  <div className="flex space-x-2">
+                    <button className="border border-blue-600 text-blue-600 bg-blue-50 px-3 py-1 rounded text-sm font-medium">128 GB</button>
+                    <button className="border border-gray-300 text-gray-700 px-3 py-1 rounded text-sm">256 GB</button>
+                    <button className="border border-gray-300 text-gray-700 px-3 py-1 rounded text-sm">512 GB</button>
                   </div>
                 </div>
               </div>
 
               {/* Security Badges */}
-              <div className="flex items-center space-x-4">
+              <div className="flex items-center space-x-6 pt-4 border-t">
                 <div className="flex items-center space-x-2">
                   <Shield className="w-5 h-5 text-green-600" />
-                  <span className="text-sm text-green-600 font-medium">100% Secure Payment</span>
+                  <span className="text-sm text-gray-700">100% Secure Payment</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Truck className="w-5 h-5 text-blue-600" />
-                  <span className="text-sm text-blue-600 font-medium">Free Delivery</span>
+                  <span className="text-sm text-gray-700">Free Delivery</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <RotateCcw className="w-5 h-5 text-purple-600" />
-                  <span className="text-sm text-purple-600 font-medium">7-day Return</span>
+                  <span className="text-sm text-gray-700">7-day Return</span>
                 </div>
               </div>
 
-              {/* Buy Now Button */}
-              <div className="space-y-3">
-                <button className="w-full bg-[#FF9F00] hover:bg-orange-500 text-white font-bold py-4 px-6 rounded-lg text-lg transition-colors">
-                  🛒 BUY NOW - LIMITED STOCK!
-                </button>
-                <button className="w-full bg-[#2874F0] hover:bg-blue-600 text-white font-medium py-3 px-6 rounded-lg transition-colors">
-                  ADD TO CART
-                </button>
-              </div>
-            </div>
-          </div>
-
-          {/* Customer Reviews */}
-          <div className="mt-12 border-t pt-8">
-            <h3 className="text-2xl font-bold mb-6">Customer Reviews</h3>
-            <div className="space-y-4">
-              <div className="bg-gray-50 rounded-lg p-4">
-                <div className="flex items-center space-x-2 mb-2">
-                  <div className="flex">
-                    {[...Array(5)].map((_, i) => (
-                      <Star key={i} className="w-4 h-4 fill-yellow-400 text-yellow-400" />
-                    ))}
-                  </div>
-                  <span className="font-medium">Rajesh K.</span>
+              {/* Scam Element: Urgency */}
+              <div className="bg-red-50 border border-red-200 rounded-lg p-3">
+                <div className="flex items-center justify-between">
+                  <span className="text-red-600 font-medium text-sm">🔥 Hurry! Only 2 left in stock!</span>
+                  <span className="text-red-500 text-xs font-mono">23:45:12</span>
                 </div>
-                <p className="text-gray-700">"Great product! Amazing value for money. The camera quality is superb and battery life is excellent. Highly recommended!"</p>
-              </div>
-              
-              <div className="bg-gray-50 rounded-lg p-4">
-                <div className="flex items-center space-x-2 mb-2">
-                  <div className="flex">
-                    {[...Array(4)].map((_, i) => (
-                      <Star key={i} className="w-4 h-4 fill-yellow-400 text-yellow-400" />
-                    ))}
-                    <Star className="w-4 h-4 text-gray-300" />
-                  </div>
-                  <span className="font-medium">Priya M.</span>
-                </div>
-                <p className="text-gray-700">"Really fast delivery! Got it within 2 days. The phone works perfectly and the discount was amazing. Will buy again!"</p>
-              </div>
-
-              <div className="bg-gray-50 rounded-lg p-4">
-                <div className="flex items-center space-x-2 mb-2">
-                  <div className="flex">
-                    {[...Array(5)].map((_, i) => (
-                      <Star key={i} className="w-4 h-4 fill-yellow-400 text-yellow-400" />
-                    ))}
-                  </div>
-                  <span className="font-medium">Amit S.</span>
-                </div>
-                <p className="text-gray-700">"Best smartphone in this price range! The performance is outstanding and the build quality is premium. 5 stars!"</p>
               </div>
             </div>
           </div>

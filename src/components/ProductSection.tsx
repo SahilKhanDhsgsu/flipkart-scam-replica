@@ -2,12 +2,12 @@
 import ProductCard from './ProductCard';
 
 interface Product {
-  id: number;
-  image: string;
-  title: string;
-  originalPrice: number;
-  discountedPrice: number;
-  isSmartphone?: boolean;
+  image_url: string;
+  name: string;
+  specs: string;
+  tags: string[];
+  price: string;
+  originalPrice?: string;
 }
 
 interface ProductSectionProps {
@@ -17,22 +17,30 @@ interface ProductSectionProps {
 
 const ProductSection = ({ title, products }: ProductSectionProps) => {
   return (
-    <div className="bg-white rounded-lg shadow-sm p-6 mb-6">
-      <h2 className="text-2xl font-bold text-gray-800 mb-6 border-b-2 border-[#2874F0] pb-2 inline-block">
-        {title}
-      </h2>
+    <div className="bg-white rounded-lg shadow-sm mb-6">
+      <div className="p-6 border-b">
+        <h2 className="text-xl font-bold text-gray-800 flex items-center">
+          {title}
+          <span className="ml-4 text-sm font-normal text-gray-500">
+            View All
+          </span>
+        </h2>
+      </div>
       
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-        {products.map((product) => (
-          <ProductCard
-            key={product.id}
-            image={product.image}
-            title={product.title}
-            originalPrice={product.originalPrice}
-            discountedPrice={product.discountedPrice}
-            isSmartphone={product.isSmartphone}
-          />
-        ))}
+      <div className="p-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+          {products.map((product, index) => (
+            <ProductCard
+              key={index}
+              image_url={product.image_url}
+              name={product.name}
+              specs={product.specs}
+              tags={product.tags}
+              price={product.price}
+              originalPrice={product.originalPrice}
+            />
+          ))}
+        </div>
       </div>
     </div>
   );
